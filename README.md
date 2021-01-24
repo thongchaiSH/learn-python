@@ -1,7 +1,10 @@
 # learn-python
-for self learning
+For self learning  
+[เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase1]](https://www.youtube.com/watch?v=N1fnq4MF3AE&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=1)  
+[เขียนโปรแกรมภาษา Python เบื้องต้น [ฉบับปรับปรุง 2020][Phase2]](https://www.youtube.com/watch?v=2_TK8JYJiwQ&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=2)
 
 # Content
+## Phase 1
 - EP1
 - EP2 (การเขียน Comment)
 - EP3 (แสดงผลด้วย Function print)
@@ -38,7 +41,18 @@ for self learning
 - EP34 (โปรแกรมสร้างตารางหมากฮอต)
 - EP35 (โปรแกรมสร้างขอบตาราง)
 - EP36 (โปรแกรมทายลูกเต๋า)
-## EP1
+## Phase 2
+- EP37 (เจาะลึกการใช้ List)
+- EP37 (รับและเรียงลำดับข้อมูลตัวเลข)
+- EP38 (หาตัวเลขมากสุด-ต่ำสุด)
+- EP40 (การเรียงลำดับชื่อ)
+- EP41 (เรียงสมาชิกหลังสุด => หน้าสุด)
+- EP42 (หาเลขยกกำลัง)
+- EP43 (จับคู่คำทักทาย)
+- EP44 (จับคู่สินค้าและราคา)
+- EP45 (การค้นหาและนับจำนวนตัวอักษร)
+
+## Install
 - [ดาวน์โหลด Python](https://www.python.org/downloads)
 - [ดาวน์โหลด Visual Studio Code](https://code.visualstudio.com/download)
 
