@@ -50,13 +50,15 @@ For self learning
 - EP42 (หาเลขยกกำลัง)
 - EP43 (จับคู่คำทักทาย)
 - EP44 (จับคู่สินค้าและราคา)
-- EP45 (การค้นหาและนับจำนวนตัวอักษร)
+- TupleTutorial
+- SetTutorial
+- SetOperator
 
 ## Install
 - [ดาวน์โหลด Python](https://www.python.org/downloads)
 - [ดาวน์โหลด Visual Studio Code](https://code.visualstudio.com/download)
 
 
-# VS Plugin Install
+## VS Plugin Install
 * [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
