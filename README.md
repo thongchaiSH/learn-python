@@ -53,7 +53,27 @@ For self learning
 - TupleTutorial
 - SetTutorial
 - SetOperator
-
+- DictionaryTutorial
+- FunctionEp1
+- EP45 Global Variable/Local variable
+- EP46 การรับค่าเข้ามาใน function
+- EP47 โปรแกรมหาเลขคู่/คี่
+- EP48 Parameter Agrs
+- EP49 Keyword Arguments
+- EP50 Default Parameter
+- EP51 List Parameter
+- EP52 Function Return ค่า
+- EP53 Arbitrary Arguments (kwargs)
+- EP54 Function เรียก Function
+- EP55 Recursive Function
+- EP56 Factorial
+- EP57 Fibonacci number
+- EP58 การใช้คำสั่ง Pass
+- EP59 lamda function
+- EP60 Function หาผลรวมค่าเฉลี่ย
+- EP61 นับตัวอักษรพิมใหญ่/เล็ก
+- EP62 หาเบอร์โทรที่กำหนด
+- EP63 หอคอยฮานอย
 ## Install
 - [ดาวน์โหลด Python](https://www.python.org/downloads)
 - [ดาวน์โหลด Visual Studio Code](https://code.visualstudio.com/download)
@@ -61,4 +81,3 @@ For self learning
 
 ## VS Plugin Install
 * [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-
