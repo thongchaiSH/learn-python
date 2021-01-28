@@ -74,6 +74,13 @@ For self learning
 - EP61 นับตัวอักษรพิมใหญ่/เล็ก
 - EP62 หาเบอร์โทรที่กำหนด
 - EP63 หอคอยฮานอย
+## Phase 3
+- EP1 Exception
+- EP2 Try except with while
+- EP3 การสร้าง Exception ด้วย Raise
+- EP4 การสร้างโปรแกรมบัญชีธนาคาร
+- EP5 จัดการ Text ไฟล์ใน Python
+
 ## Install
 - [ดาวน์โหลด Python](https://www.python.org/downloads)
 - [ดาวน์โหลด Visual Studio Code](https://code.visualstudio.com/download)
